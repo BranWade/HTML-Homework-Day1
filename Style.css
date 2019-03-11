@@ -1,0 +1,21 @@
+body {
+    background-color: rgb(236, 231, 231);
+}
+
+#skills #experience {
+    text-align: center;
+}
+
+.body {
+    text-align: center;
+}
+
+.ProfilePic {
+        display: block;
+        margin-left: auto;
+        margin-right: auto;
+        width: 50%;
+      }
+
+
+}
